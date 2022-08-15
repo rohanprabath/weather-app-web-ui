@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  lg="4"
+  sm="12"
+  xs="12"
+>
+  <div
+    className="card"
+  >
+    <div
+      className="card-header"
+    >
+      Location
+    </div>
+    <div
+      className="card-body"
+    >
+      <h5
+        className="card-title"
+      >
+        London
+      </h5>
+      <h6
+        className="card-subtitle"
+      >
+        United Kingdon
+      </h6>
+    </div>
+  </div>
+</div>
+`;
